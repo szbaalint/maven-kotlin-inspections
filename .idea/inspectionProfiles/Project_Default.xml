@@ -6,5 +6,6 @@
     <inspection_tool class="ArquillianDeploymentReturnType" enabled="false" level="ERROR" enabled_by_default="false" />
     <inspection_tool class="ArquillianDeploymentSignature" enabled="false" level="ERROR" enabled_by_default="false" />
     <inspection_tool class="ArquillianTooManyDeployment" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UnnecessarySemicolon" enabled="true" level="ERROR" enabled_by_default="true" />
   </profile>
 </component>
