@@ -1,4 +1,4 @@
-package hu.bszabo.mave.kotlin.inspections;
+package hu.bszabo.maven.kotlin.inspections;
 
 public class Something {
 
